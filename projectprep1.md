@@ -1,3 +1,5 @@
+# Project Prep 1
+
 ## Cooperation Plan
 - What are the key strengths of each person on the team?
   - Dwight - JS, googlefu
